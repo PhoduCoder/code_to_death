@@ -20,3 +20,4 @@ print len(num_list)
 # This will through a error 
 # TypeError: sequence item 0: expected string, int found
 print ','.join(num_list2)
+#method join() returns a string in which the string elements of sequence have been joined by str separator.
